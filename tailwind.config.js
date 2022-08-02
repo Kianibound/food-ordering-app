@@ -30,6 +30,7 @@ module.exports = {
         420: "420px",
         510: "510px",
         600: "600px",
+        650: "650px",
         685: "685px",
         800: "800px",
         "90vh": "90vh",
@@ -50,6 +51,7 @@ module.exports = {
         cartTotal: "#343739",
         headingColor: "#2e3033",
         primary: "#D6230A",
+        cardOverlay: "rgba(256, 256,256,0.4)",
       },
       screens: {
         sm: "640px",
